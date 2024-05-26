@@ -5,7 +5,7 @@
 "Finds" is a powerful command-line tool designed to search for a specified string within files and directories. It extends the basic string search functionality to support regular expressions with specific control characters for more flexible and complex search patterns.
 
 ## Demo Video
-
+https://github.com/SPC-Toad/unix_file_string_search/assets/111462911/2fef6e83-85e8-4305-b668-d1192d150246
 
 ## Features
 
